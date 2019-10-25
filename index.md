@@ -29,15 +29,6 @@ The primary goal of articulated object motion prediction is to generate future m
 # Results on short-term prediction
 
 
-<html xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:x="urn:schemas-microsoft-com:office:excel"
-xmlns="http://www.w3.org/TR/REC-html40">
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=utf-8">
-<meta name=ProgId content=Excel.Sheet>
-<meta name=Generator content="Microsoft Excel 15">
-<link rel=File-List href="工作簿1.fld/filelist.xml">
 <style id="工作簿1_25555_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
@@ -304,12 +295,3 @@ rt
 </table>
 
 </div>
-
-
-<!----------------------------->
-<!--“从 EXCEL 发布网页”向导结束-->
-<!----------------------------->
-</body>
-
-</html>
-
