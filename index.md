@@ -34,7 +34,7 @@ The primary goal of articulated object motion prediction is to generate future m
         <td colspan=8>Directions</td>
     </tr>
     <tr>
-        <td>80ms</td>
+        <td><bold>80ms</bold></td>
         <td>160ms</td>
         <td>320ms</td>
         <td>400ms</td>
