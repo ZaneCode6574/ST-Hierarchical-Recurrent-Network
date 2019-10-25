@@ -145,5 +145,4 @@ The primary goal of articulated object motion prediction is to generate future m
   <td width=87 style='width:65pt'></td>
   <td width=87 style='width:65pt'></td>
  </tr>
- <![endif]>
 </table>
