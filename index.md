@@ -6,7 +6,7 @@ The primary goal of articulated object motion prediction is to generate future m
 
 ## Walking
 
-<iframe width="560" height="315" src="https://youtu.be/4Z1IWTl-_7w" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=4Z1IWTl-_7w&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
 
 ## Posing
 
