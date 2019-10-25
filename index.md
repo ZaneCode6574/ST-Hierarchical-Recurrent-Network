@@ -7,7 +7,6 @@ The primary goal of articulated object motion prediction is to generate future m
 
 ## Walking
 
-&nbsp;
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/4Z1IWTl-_7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -15,7 +14,6 @@ The primary goal of articulated object motion prediction is to generate future m
 
 ## Posing
 
-&nbsp;
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/UptXczFf6Ro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -23,7 +21,6 @@ The primary goal of articulated object motion prediction is to generate future m
 
 ## Eating
 
-&nbsp;
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Scur-WShQ5Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
