@@ -160,15 +160,7 @@ rt
 	display:none;}
 -->
 </style>
-</head>
 
-<body link="#0563C1" vlink="#954F72">
-<!--[if !excel]>　　<![endif]-->
-<!--下列信息由 Microsoft Excel 的发布为网页向导生成。-->
-<!--如果同一条目从 Excel 中重新发布，则所有位于 DIV 标记之间的信息均将被替换。-->
-<!----------------------------->
-<!--“从 EXCEL 发布网页”向导开始-->
-<!----------------------------->
 
 <div id="工作簿1_25555" align=center x:publishsource="Excel">
 
@@ -279,7 +271,6 @@ rt
   <td class=xl67 style='border-top:none;border-left:none'>1.26</td>
   <td class=xl67 style='border-top:none;border-left:none'>1.57</td>
  </tr>
- <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
   <td width=87 style='width:65pt'></td>
   <td width=87 style='width:65pt'></td>
@@ -291,7 +282,6 @@ rt
   <td width=87 style='width:65pt'></td>
   <td width=87 style='width:65pt'></td>
  </tr>
- <![endif]>
 </table>
 
 </div>
