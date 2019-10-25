@@ -3,8 +3,16 @@ The primary goal of articulated object motion prediction is to generate future m
 
 # Visualization of long-term prediction
 
+
 ## Walking
+
+<iframe src="https://youtu.be/4Z1IWTl-_7w" frameborder="0" allowfullscreen></iframe>
+
 ## Posing
+
+
 ## Greeting
+
+
 
 # Results on short-term prediction
