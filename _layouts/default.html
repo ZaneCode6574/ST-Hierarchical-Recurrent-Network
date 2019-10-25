@@ -24,17 +24,18 @@
         </nav>
       </div>
 
+      <div class="wrapper">
+          <section>
+              <div id="title">
+                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+                <hr>
+                <span class="credits left">Project maintained by <a href="https://github.com/p0werhu">p0werHu</a> | <a href="https://github.com/ZaneCode6574">ZaneCode6574</a></span>
+              </div>
+            </section>
+      </div>
+      <center><img src="head.png"></center>
     <div class="wrapper">
-
       <section>
-        <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <hr>
-          <span class="credits left">Project maintained by <a href="https://github.com/p0werhu">p0werHu</a> | <a href="https://github.com/ZaneCode6574">ZaneCode6574</a></span>
-        </div>
-
-        <img src="head.png">
-
         {{ content }}
         <div class="wrapper">
           <center>
