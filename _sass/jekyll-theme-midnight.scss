@@ -20,6 +20,9 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 
+.over {position: fixed; left:0; top:0; width:100%; z-index:100;}
+.tempContainer {position:fixed; width:100%; margin-right:0px; margin-left:0px; text-align:center; z-index:101;}
+
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
