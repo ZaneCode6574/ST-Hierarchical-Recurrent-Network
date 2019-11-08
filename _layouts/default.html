@@ -1,6 +1,42 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+        <style>
+                #modal {
+                    display: none;
+                }
+                .modal {
+                    margin: auto;
+                    padding-top: 18%;
+                    width: 50%;
+                    height: 80%;
+                    z-index: 1;
+                }
+                .modal img {
+                    animation-name: zoom;
+                    animation-duration: 0.6s;
+                    display: block;
+                    padding: 10px;
+                    margin: auto;
+                    max-width: 100%;
+                    max-height: 100%;
+                    box-shadow: 0 2px 6px rgb(0, 0, 0, 0), 0 10px 20px rgb(0, 0, 0, 0);
+                    border-radius: 12px;
+                    border: 1px solid white;
+                }
+                @keyframes zoom {
+                    from {transform: scale(0.1)}
+                    to {transform: scale(1)}
+                }
+                .thum-img {
+                    float: left;
+                    width: 200px;
+                    height: 200px;
+                    margin: auto;
+                    display: block;
+                    padding: 40px;
+                }
+                </style>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -18,6 +54,12 @@
 
   </head>
   <body>
+      <!-- 先来实现弹窗 -->
+<div style='position:fixed;width:80%;height:80%;background-color:rgb(0,0,0,0)' id='modal'>
+        <div class='modal' id='modalw'>
+            <img id='bgImg' />
+        </div>
+    </div>
       <div id="header">
         <nav>
           <li class="fork"><a href="https://github.com/p0werHu/articulated-objects-motion-prediction">View On GitHub</a></li>
@@ -33,7 +75,8 @@
           <span class="credits left">Project maintained by <a href="https://github.com/p0werhu">p0werHu</a> | <a href="https://github.com/ZaneCode6574">ZaneCode6574</a></span>
         </div>
 
-        <img src="0001.jpg">
+        
+    <img class='thum-img' src='0001.jpg' οnclick='showBgImg(this)'/>
 
         {{ content }}
 
