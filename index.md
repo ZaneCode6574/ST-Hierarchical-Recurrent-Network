@@ -29,3 +29,4 @@ The primary goal of skeletal motion prediction is to generate future motion by o
 
 # Results on short-term prediction
 
+$$ f(x) = x_i + y^x，f((x+y)^{u}) = (x+y)^{u+v}$$
